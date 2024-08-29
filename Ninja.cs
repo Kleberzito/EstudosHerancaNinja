@@ -1,5 +1,3 @@
-using System;
-
 public class Ninja
 {
     public string Name { get; set; }
