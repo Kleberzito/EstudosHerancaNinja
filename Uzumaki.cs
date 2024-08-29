@@ -1,9 +1,10 @@
 public class Uzumaki : Ninja
 {
-    public string PowerClaStatus { get; private set; }
+     public string PowerClaStatus { get; private set; }
 
     public Uzumaki(string name, int age, string village, bool powerCla) : base(name, age, village)
     {
+        Cla = "Uzumaki";
         PowerClaStatus = PowerCla(powerCla);        
     }
 
@@ -16,6 +17,6 @@ public class Uzumaki : Ninja
 
     public override string ToString()
     {
-        return base.ToString() + $"{base.Name}: {PowerClaStatus}\n";
+        return base.ToString() + $"{base.Name}:  {PowerClaStatus}\n";
     }
 }
