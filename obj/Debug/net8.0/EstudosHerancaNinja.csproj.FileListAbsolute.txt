@@ -1,0 +1,15 @@
+F:\Projetos\csharp\EstudosHerancaNinja\bin\Debug\net8.0\EstudosHerancaNinja.exe
+F:\Projetos\csharp\EstudosHerancaNinja\bin\Debug\net8.0\EstudosHerancaNinja.deps.json
+F:\Projetos\csharp\EstudosHerancaNinja\bin\Debug\net8.0\EstudosHerancaNinja.runtimeconfig.json
+F:\Projetos\csharp\EstudosHerancaNinja\bin\Debug\net8.0\EstudosHerancaNinja.dll
+F:\Projetos\csharp\EstudosHerancaNinja\bin\Debug\net8.0\EstudosHerancaNinja.pdb
+F:\Projetos\csharp\EstudosHerancaNinja\obj\Debug\net8.0\EstudosHerancaNinja.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\csharp\EstudosHerancaNinja\obj\Debug\net8.0\EstudosHerancaNinja.AssemblyInfoInputs.cache
+F:\Projetos\csharp\EstudosHerancaNinja\obj\Debug\net8.0\EstudosHerancaNinja.AssemblyInfo.cs
+F:\Projetos\csharp\EstudosHerancaNinja\obj\Debug\net8.0\EstudosHerancaNinja.csproj.CoreCompileInputs.cache
+F:\Projetos\csharp\EstudosHerancaNinja\obj\Debug\net8.0\EstudosHerancaNinja.sourcelink.json
+F:\Projetos\csharp\EstudosHerancaNinja\obj\Debug\net8.0\EstudosHerancaNinja.dll
+F:\Projetos\csharp\EstudosHerancaNinja\obj\Debug\net8.0\refint\EstudosHerancaNinja.dll
+F:\Projetos\csharp\EstudosHerancaNinja\obj\Debug\net8.0\EstudosHerancaNinja.pdb
+F:\Projetos\csharp\EstudosHerancaNinja\obj\Debug\net8.0\EstudosHerancaNinja.genruntimeconfig.cache
+F:\Projetos\csharp\EstudosHerancaNinja\obj\Debug\net8.0\ref\EstudosHerancaNinja.dll
