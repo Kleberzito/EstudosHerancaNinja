@@ -10,12 +10,12 @@ public class Ninja
         Name = name;
         Age = age;
         Village = village;
-        Cla = "Ninja";
+        Cla = "";
     }
 
     public override string ToString()
     {
-        return $"Name:    {Name}\nAge:     {Age}\nVillage: {Village}\nClã:     {Cla}\n";
+        return $"Name:    {Name} {Cla}\nAge:     {Age}\nVillage: {Village}\nClã:     {Cla}\n";
     }
 
 }

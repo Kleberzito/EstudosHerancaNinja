@@ -1,24 +1,23 @@
-public class Uzumaki : Ninja
+public class Haruno : Ninja
 {
      public string PowerClaStatus { get; private set; }
 
-     public Uzumaki(string name, int age, string village) : base(name, age, village)
+      public Haruno(string name, int age, string village) : base(name, age, village)
     {
-        Cla = "Uzumaki";
-        PowerClaStatus = "";        
+        Cla = "Haruno"; 
+        PowerClaStatus = "";       
     }
 
-    public Uzumaki(string name, int age, string village, bool powerCla) : base(name, age, village)
+    public Haruno(string name, int age, string village, bool powerCla) : base(name, age, village)
     {
-        Cla = "Uzumaki";
+        Cla = "Haruno";
         PowerClaStatus = PowerCla(powerCla);        
     }
-
     private string PowerCla(bool status)
     {
         if(status)
-            return "Ativado modo sábio.";
-        return "Não usou o modo sábio";
+            return "Ativado cura.";
+        return "Não usou o cura";
     }
 
     public override string ToString()
